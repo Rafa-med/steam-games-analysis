@@ -18,6 +18,9 @@ This project explores a dataset of Steam games using data analysis and visualiza
 Steam Games Dataset (SteamSpy API):  
 https://www.kaggle.com/datasets/muhammadaqeelkabir/steam-games-dataset-steamspy-api?resource=download
 
+## How to Run
+To run this project locally, download the dataset from Kaggle and place it in the same directory as the notebook.
+
 ## Key Insights
 - Popular games tend to receive more positive reviews
 - A small number of games concentrate most active players
